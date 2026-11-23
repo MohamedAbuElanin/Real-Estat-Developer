@@ -1,0 +1,9 @@
+{
+  "name": "new-capital-editorial",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": { "dev": "node scripts/dev.mjs", "build": "node scripts/build.mjs", "preview": "node scripts/preview.mjs" },
+  "dependencies": { "@fortawesome/fontawesome-svg-core": "^6.7.2", "@fortawesome/free-brands-svg-icons": "^6.7.2", "@fortawesome/free-regular-svg-icons": "^6.7.2", "@fortawesome/free-solid-svg-icons": "^6.7.2", "@fortawesome/react-fontawesome": "^0.2.2", "react": "^18.3.1", "react-dom": "^18.3.1" },
+  "devDependencies": { "@types/react": "^18.3.18", "@types/react-dom": "^18.3.5", "@vitejs/plugin-react": "^4.3.4", "typescript": "~5.7.2", "vite": "^6.0.7" }
+}

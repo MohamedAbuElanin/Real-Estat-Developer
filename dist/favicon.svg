@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">New Capital — City and Green River</title>
+  <rect width="64" height="64" fill="#242622"/>
+  <rect x="7.5" y="7.5" width="49" height="49" fill="none" stroke="#B49A78"/>
+  <path d="M13 14h15v11H13zM36 14h15v11H36zM13 39h12v11H13zM39 39h12v11H39z" fill="#E9E4DA"/>
+  <path d="M10 33c8-6 13 4 21-1s12-10 23-5" fill="none" stroke="#8D9C87" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="36" cy="29" r="3" fill="#B49A78" stroke="#242622" stroke-width="1.5"/>
+</svg>
